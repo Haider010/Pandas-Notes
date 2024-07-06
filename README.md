@@ -55,7 +55,3 @@ Pandas is a powerful and flexible tool for data manipulation and analysis in Pyt
 Feel free to explore the notebook, and if you have any questions or suggestions, please open an issue or contact me directly.
 
 Happy learning!
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
